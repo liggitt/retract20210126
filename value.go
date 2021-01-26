@@ -1,3 +1,3 @@
 package retract20210126
 
-const Value = "v0.17.9"
+const Value = "v0.18.0"
